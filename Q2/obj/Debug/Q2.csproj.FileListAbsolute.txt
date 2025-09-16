@@ -1,0 +1,8 @@
+C:\Users\ljeng\source\repos\ConsoleApp1\Q2\bin\Debug\Q2.exe.config
+C:\Users\ljeng\source\repos\ConsoleApp1\Q2\bin\Debug\Q2.exe
+C:\Users\ljeng\source\repos\ConsoleApp1\Q2\bin\Debug\Q2.pdb
+C:\Users\ljeng\source\repos\ConsoleApp1\Q2\obj\Debug\Q2.csproj.AssemblyReference.cache
+C:\Users\ljeng\source\repos\ConsoleApp1\Q2\obj\Debug\Q2.csproj.CoreCompileInputs.cache
+C:\Users\ljeng\source\repos\ConsoleApp1\Q2\obj\Debug\Q2.exe
+C:\Users\ljeng\source\repos\ConsoleApp1\Q2\obj\Debug\Q2.pdb
+C:\Users\ljeng\source\repos\ConsoleApp1\Q2\obj\Debug\Q2.exe.config
