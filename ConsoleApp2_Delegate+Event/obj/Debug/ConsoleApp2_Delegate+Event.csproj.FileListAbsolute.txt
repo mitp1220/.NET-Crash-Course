@@ -1,0 +1,8 @@
+C:\Users\ljeng\source\repos\ConsoleApp1\ConsoleApp2_Delegate+Event\bin\Debug\ConsoleApp2_Delegate+Event.exe.config
+C:\Users\ljeng\source\repos\ConsoleApp1\ConsoleApp2_Delegate+Event\bin\Debug\ConsoleApp2_Delegate+Event.exe
+C:\Users\ljeng\source\repos\ConsoleApp1\ConsoleApp2_Delegate+Event\bin\Debug\ConsoleApp2_Delegate+Event.pdb
+C:\Users\ljeng\source\repos\ConsoleApp1\ConsoleApp2_Delegate+Event\obj\Debug\ConsoleApp2_Delegate+Event.csproj.AssemblyReference.cache
+C:\Users\ljeng\source\repos\ConsoleApp1\ConsoleApp2_Delegate+Event\obj\Debug\ConsoleApp2_Delegate+Event.csproj.CoreCompileInputs.cache
+C:\Users\ljeng\source\repos\ConsoleApp1\ConsoleApp2_Delegate+Event\obj\Debug\ConsoleApp2_Delegate+Event.exe
+C:\Users\ljeng\source\repos\ConsoleApp1\ConsoleApp2_Delegate+Event\obj\Debug\ConsoleApp2_Delegate+Event.pdb
+C:\Users\ljeng\source\repos\ConsoleApp1\ConsoleApp2_Delegate+Event\obj\Debug\ConsoleApp2_Delegate+Event.exe.config
