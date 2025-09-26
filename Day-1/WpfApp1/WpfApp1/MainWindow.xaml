@@ -1,0 +1,55 @@
+﻿<Window x:Class="WpfApp1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="700" Width="1000">
+    <Grid RenderTransformOrigin="0.454,0.538">
+        <!--
+        <TextBlock Name="txtBlock" Text="This is a text block(static text)" FontSize="24px" 
+                   Foreground="Red" TextWrapping="Wrap" TextAlignment="Center" 
+                   Margin="15">
+        </TextBlock>
+        -->
+        <!-- Label -->
+        <!--
+        <Label Name="lblName" Content="This is a label(static, but can hold content)" 
+               FontSize="30px" Foreground="Red" Background="DeepSkyBlue" 
+               Margin="50,50,50,50">
+        </Label>
+        -->
+        <!-- TextBox -->
+        <!--
+        <TextBox Name="txtInput" Text="Editable Text here..." Width="300" Height="40" FontSize="26" 
+                 Foreground="Black" Background="MintCream" MaxLength="50" TextWrapping="NoWrap" Margin="350,143,350,501">
+        </TextBox>
+        -->
+        <!-- PassWordBox -->
+        <!--
+        <PasswordBox Name="pwdInput" Width="300" Height="40" FontSize="26" Foreground="Black" 
+                     Background="MintCream" MaxLength="30" Margin="350,218,350,426">
+        </PasswordBox>
+        -->
+        <!-- Button -->
+        <!--
+        <Button Name="btnSubmit" Content="Click Here" Width="150" Height="50" FontSize="24" 
+                Background="DarkSeaGreen" Foreground="AntiqueWhite" Margin="425,292,425,342">
+        </Button>
+        -->
+        <!-- RadioButton -->
+        <StackPanel Orientation="Horizontal" Margin="150,100,150,100">
+            <RadioButton Name="rbOption2" Content="option1" GroupName="Choices" FontSize="30"/>
+            <RadioButton Name="rbOption1" Content="option2" GroupName="Choices" IsChecked="True" FontSize="30"/>
+
+            <CheckBox Name="chkAccept" Content="Prime Member" IsChecked="False" FontSize="20" Margin="0,100,20,300" Width="163"/>
+
+            <!--<Slider Name="sldvolume" Minimum="0" Maximum="100" Value="50" TickFrequency="10" IsSnapToTickEnabled="True" Width="150" Margin="10"/>-->
+
+            <Calendar Name="calEvents" SelectedDate="2025-01-01" SelectionMode="SingleDate" Margin="0,0,0,300"/>
+
+            <DatePicker Name="dpselectDate" SelectedDate="2025-09-25" DisplayDateStart="2025-01-01" DisplayDateEnd="2025-12-31" Margin="0,250,0,120"/>
+        </StackPanel>
+    </Grid>
+</Window>
